@@ -1,0 +1,15 @@
+D:\Обучение\2022\1я четверть\04 С# Знакомство с языками программирования\01 Лекции\Lesson 01\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+D:\Обучение\2022\1я четверть\04 С# Знакомство с языками программирования\01 Лекции\Lesson 01\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+D:\Обучение\2022\1я четверть\04 С# Знакомство с языками программирования\01 Лекции\Lesson 01\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+D:\Обучение\2022\1я четверть\04 С# Знакомство с языками программирования\01 Лекции\Lesson 01\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+D:\Обучение\2022\1я четверть\04 С# Знакомство с языками программирования\01 Лекции\Lesson 01\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+D:\Обучение\2022\1я четверть\04 С# Знакомство с языками программирования\01 Лекции\Lesson 01\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+D:\Обучение\2022\1я четверть\04 С# Знакомство с языками программирования\01 Лекции\Lesson 01\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\2022\1я четверть\04 С# Знакомство с языками программирования\01 Лекции\Lesson 01\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+D:\Обучение\2022\1я четверть\04 С# Знакомство с языками программирования\01 Лекции\Lesson 01\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+D:\Обучение\2022\1я четверть\04 С# Знакомство с языками программирования\01 Лекции\Lesson 01\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\Обучение\2022\1я четверть\04 С# Знакомство с языками программирования\01 Лекции\Lesson 01\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+D:\Обучение\2022\1я четверть\04 С# Знакомство с языками программирования\01 Лекции\Lesson 01\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+D:\Обучение\2022\1я четверть\04 С# Знакомство с языками программирования\01 Лекции\Lesson 01\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+D:\Обучение\2022\1я четверть\04 С# Знакомство с языками программирования\01 Лекции\Lesson 01\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+D:\Обучение\2022\1я четверть\04 С# Знакомство с языками программирования\01 Лекции\Lesson 01\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
